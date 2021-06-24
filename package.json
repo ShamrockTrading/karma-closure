@@ -25,7 +25,6 @@
     "grunt": "~1.4.1",
     "grunt-auto-release": "~0.0.7",
     "grunt-bump": "^0.8.0",
-    "grunt-coffeelint": "~0.0.16",
     "grunt-contrib-jshint": "~3.0.0",
     "grunt-npm": "~0.0.2",
     "grunt-simple-mocha": "~0.4.1",
